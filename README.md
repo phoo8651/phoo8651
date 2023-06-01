@@ -3,8 +3,8 @@ Introduction about me(Rorum) | 나(로럼)에 대한 소개
 
 # Who am i? | 나는 누구 인가?
 ### 로럼 Rorum (pronunciation: loleom)
-Ko: 저는 로럼(Rorum)입니다. 한국의 국립대학에서 정보보호학 학사 과정을 공부하고 있습니다. 제 분야는 소프트웨어 개발과 시큐어코딩, 인공지능 및 네트워크 보안입니다. 다루는 언어는 C/C++, Java, Python, Javascript 외에 다른 언어들입니다.
-En: I am Rorum. I am studying a bachelor's degree in information security at a national university in Korea. My fields are software development, secure coding, artificial intelligence and network security. Languages covered are C/C++, Java, Python, Javascript and etc.
+##### Ko: 저는 로럼(Rorum)입니다. 한국의 국립대학에서 정보보호학 학사 과정을 공부하고 있습니다. 제 분야는 소프트웨어 개발과 시큐어코딩, 인공지능 및 네트워크 보안입니다. 다루는 언어는 C/C++, Java, Python, Javascript 외에 다른 언어들입니다.
+##### En: I am Rorum. I am studying a bachelor's degree in information security at a national university in Korea. My fields are software development, secure coding, artificial intelligence and network security. Languages covered are C/C++, Java, Python, Javascript and etc.
 
 * * *
 
