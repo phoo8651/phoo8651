@@ -23,7 +23,7 @@ Introduction about me(Rorum) | 나(로럼)에 대한 소개
 * * *
 
 # Google Play Academy Certificate | 구글플레이 인증
-!(Google Play Badge)(https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90961111)
+![Google Play Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90961111)
 
 # Etc | 기타
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=phoo8651&theme=blue-green&show_icons=true)
