@@ -23,8 +23,8 @@ Introduction about me(Rorum) | 나(로럼)에 대한 소개
 * * *
 
 # Google Play Academy Certificate | 구글플레이 인증
-Issue Date: December 30, 2023
-Valid Through: December 30, 2026
+#####Issue Date: December 30, 2023
+#####Valid Through: December 30, 2026
 ![Google Play Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90961111)
 
 # Etc | 기타
