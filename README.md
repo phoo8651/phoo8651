@@ -1,30 +1,32 @@
-Introduction about me(Rorum) | 나(로럼)에 대한 소개
+# Introduction about me (Torugi) | 나(토루기)에 대한 소개
 ==================================================
 
-# Who am i? | 나는 누구 인가?
-### 로럼 Rorum (pronunciation: loleom)
-##### Ko: 저는 로럼(Rorum)입니다. 한국의 국립대학에서 정보보호학 학사 과정을 공부하고 있습니다. 제 분야는 소프트웨어 개발과 시큐어코딩, 인공지능 및 네트워크 보안입니다. 다루는 언어는 C/C++, Java, Python, Javascript 외에 다른 언어들입니다.
-##### En: I am Rorum. I am studying a bachelor's degree in information security at a national university in Korea. My fields are software development, secure coding, artificial intelligence and network security. Languages covered are C/C++, Java, Python, Javascript and etc.
+## Who am I? | 나는 누구인가?
+### 루네이라 토루기 (pronunciation: Luneira Torugi)  
+##### Ko: 저는 토루기입니다. 한국의 국립대학에서 정보보호학 학사 과정을 마쳤습니다. 현재는 소프트웨어 개발자이자 보안 연구자로 활동하며, 보안성과 효율성을 동시에 고려한 프로그래밍과 시스템 설계를 지향합니다. 전문 분야는 소프트웨어 개발, 시큐어 코딩, 인공지능, 네트워크 보안이며 다루는 언어는 C/C++, Java, Python, Javascript 등을 포함합니다.  
+##### En: I am Torugi. I graduated with a bachelor's degree in Information Security from a national university in Korea. Currently, I work as a software developer and security researcher, focusing on secure and efficient system design. My specialties include software development, secure coding, artificial intelligence, and network security. Languages I use include C/C++, Java, Python, Javascript, and more.  
 
-* * *
+---
 
-# Future plan | 미래 계획
-
+## Future Plan | 미래 계획
 ### Ko:
-1. 남은 2년의 교육과정을 수료하고 학위를 받기 전까지 내가 진행하는 프로젝트에 대해서 일부는 Github에 공개하고 [My Homepage](https://rorum.net)에 글을 올리는 것입니다.
-2. 개인적으로 게임을 좋아하기에 Unreal Engine 5를 사용한 게임을 개발해보는 것입니다.
-3. 다양한 사람들과 교류를 하고 싶습니다. 저와 친해지고 싶다면 phoo8651@rorum.net 으로 연라주세요!
+1. 졸업 이후에도 개인 연구와 프로젝트를 꾸준히 진행하며, 일부는 GitHub에 공개하고 [My Homepage](https://blog.torugi.com)에 기록할 예정입니다.  
+2. 게임 개발에도 관심이 있어, 언리얼 엔진 5를 활용한 독창적인 게임을 제작해보고자 합니다.  
+3. 다양한 사람들과 교류하고 협업하는 것을 좋아합니다. 저와 교류하고 싶다면 언제든 연락 주세요: **torugi@torugi.com**  
 
 ### En:
-1. Until I complete the remaining two years of education and receive my degree, I will disclose some of my projects on Github and post them on [My Homepage](https://rorum.net).
-2. Personally, I like games, so I'm trying to develop a game using Unreal Engine 5.
-3. I want to interact with various people. If you want to get to know me, please contact phoo8651@rorum.net
+1. I plan to continue personal research and projects after graduation, sharing some on GitHub and documenting them on [My Homepage](https://blog.torugi.com).  
+2. I am also interested in game development and plan to create original games using Unreal Engine 5.  
+3. I enjoy interacting and collaborating with people. Feel free to contact me anytime: **torugi@torugi.com**  
 
-* * *
+---
 
-# Google Play Academy Certificate | 구글플레이 인증
-##### Valid Through: December 30, 2026
-![Google Play Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90961111)
+## Certificates | 자격 및 인증
+- **Google Play Academy Certificate**  
+  Valid Through: December 30, 2026  
+  ![Google Play Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/90961111)  
 
-# Etc | 기타
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phoo8651&theme=blue-green&show_icons=true)
+---
+
+## GitHub Stats | 깃허브 통계
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phoo8651&theme=blue-green&show_icons=true)  
